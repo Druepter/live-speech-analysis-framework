@@ -8,4 +8,4 @@ The following two componentes need to be installed on your computer:
 * Matlab: https://de.mathworks.com/products/matlab.html (Recommanded Version: R2022)
 
 To run the live speech analysis framework double click on `live_speed_analysis_framework.jar` or
-execute `java -jar .\programm.jar` in the root folder of the project.
+execute `java -jar .\live_speed_analysis_framework.jar` in the root folder of the project.

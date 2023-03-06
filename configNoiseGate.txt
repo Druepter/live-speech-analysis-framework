@@ -1,0 +1,2 @@
+mode = noisegate
+threshold = 0.291259765625

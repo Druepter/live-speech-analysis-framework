@@ -1,4 +1,4 @@
-# Lve Speech Analysis Framework
+# Live Speech Analysis Framework
 
 ## Installation and execution
 
